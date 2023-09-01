@@ -225,5 +225,5 @@ jobs:
         with:
           name: build-pr-android-target
           path: |
-            **/target/surefire-reports/
+            **/target/
             **/hs_err*.log
