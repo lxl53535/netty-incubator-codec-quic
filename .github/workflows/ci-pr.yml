@@ -225,5 +225,5 @@ jobs:
         with:
           name: build-pr-android-target
           path: |
-            **/target/
+            **/target/**.aar
             **/hs_err*.log
